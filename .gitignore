@@ -16,3 +16,5 @@ Build.bat
 *.bs
 Unicode-Collate-*.tar.gz
 *.swp
+/Collate.c
+/ucatbl.h
